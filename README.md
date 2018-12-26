@@ -1,44 +1,26 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## React Counter App
 
-### Author: Student/Group Name
+### Author: George McCadden III
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [codesandbox](https://codesandbox.io/s/r50krv39oo)
 
 ### Modules
 
-#### `modulename.js`
-##### Exported Values and Methods
+#### `App.js`
+#### `header.js`
+#### `footer.js`
+#### `app.scss`
 
-###### `foo(thing) -> string`
-Usage Notes or examples
+
+###### `Count Up & Count Down`
+The "Count Up" and "Count Down" links have been converted to links which increment and decrement the number in the center of the page.
 
 ###### `bar(array) -> array`
 Usage Notes or examples
 
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
-
-#### UML
-Link to an image of the UML for your application and response to events
+Code Sandbox automatically runs and renders the application in the browser.
