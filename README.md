@@ -19,8 +19,5 @@
 ###### `Count Up & Count Down`
 The "Count Up" and "Count Down" links have been converted to links which increment and decrement the number in the center of the page.
 
-###### `bar(array) -> array`
-Usage Notes or examples
-
 #### Running the app
 Code Sandbox automatically runs and renders the application in the browser.
